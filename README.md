@@ -15,6 +15,6 @@ The initial pattern constitutes the seed of the system. The first generation is 
 cell in the seed, live or dead; births and deaths occur simultaneously, and the discrete moment at which this happens is sometimes called a tick.\
 Each generation is a pure function of the preceding one. The rules continue to be applied repeatedly to create further generations.
 
-##### Run the code GOLSimulate.py and follow the prompts to either simulate the GOL on a defined grid size, or collect data relating to the evolution of the system over time. If using the Spyder IDE, ensure the plotting backend is set to automatic. #####
+#### Run the code GOLSimulate.py and follow the prompts to either simulate the GOL on a defined grid size, or collect data relating to the evolution of the system over time. If using the Spyder IDE, ensure the plotting backend is set to automatic. ####
 
 
